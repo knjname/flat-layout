@@ -2,6 +2,8 @@
 
 A Leiningen template for creating flat layout project.
 
+[![Clojars Project](http://clojars.org/flat-layout/lein-template/latest-version.svg)](http://clojars.org/flat-layout/lein-template)
+
 ## Usage
 
 To generate a flat layout leiningen project, just type this.
@@ -30,3 +32,4 @@ That's all.
 This is convenience if you want to write up some small code.
 
 After writing up your code, you can ```git push``` to Gist. (Gist doesn't allow us to upload a project including sub directories.)
+
