@@ -29,7 +29,7 @@ $> lein run
 
 That's all.
 
-This is convenience if you want to write up some small code.
+This is convenience if you want to write some small Gist snippet having external dependencies which should have been written in its project.clj. After writing your snippet, you can ```git push``` to Gist directly.
 
-After writing up your code, you can ```git push``` to Gist. (Gist doesn't allow us to upload a project including sub directories.)
+(Gist doesn't allow us to upload a project including sub directories.)
 
