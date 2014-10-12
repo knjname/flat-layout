@@ -1,4 +1,4 @@
-(defproject flat-layout/lein-template "0.1.1"
+(defproject flat-layout/lein-template "0.1.3"
   :description "A project template for flat layout."
   :url "https://github.com/knjname/flat-layout"
   :license {:name "Eclipse Public License"

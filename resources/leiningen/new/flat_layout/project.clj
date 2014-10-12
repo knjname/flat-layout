@@ -3,4 +3,5 @@
   :url "http://example.com/FIXME"
   :dependencies [[org.clojure/clojure "1.6.0"]]
   :source-paths ["."]
+  :repl-options {:init-ns {{name}}}
   :main {{name}})
