@@ -12,4 +12,5 @@
     (main/info "Generating fresh 'lein new' flat-layout project.")
     (->files data
              ["{{sanitized}}.clj" (render "foo.clj" data)]
-             ["project.clj" (render "project.clj" data)])))
+             ["project.clj" (render "project.clj" data)]
+             [".gitignore" (render "gitignore" data)])))
