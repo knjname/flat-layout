@@ -20,6 +20,8 @@ You'll get a project having following layout.
   <project-name>.clj
 ```
 
+(If you need another Clojure version, append `--template-version x.x.x` argument.)
+
 You can run the created project.
 
 ```
